@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+body {
+  background: #cbc9e8;
+  overflow: hidden;
+  font-family: "Lato", sans-serif;
+}
+
+#card {
+  overflow: hidden;
+  text-align: center;
+  width: 320px;
+  height: 535px;
+  background: url(http://www.riccardotartaglia.it/img/nature.jpg);
+  background-size: cover;
+  background-position: center center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  box-shadow: 0px 30px 30px -20px rgba(0, 0, 0, 1),
+    inset 0 0 0 1000px rgba(67, 52, 109, 0.6);
+  transition: all 0.4s cubic-bezier(0.37, 0.26, 0.35, 1);
+}
+
+#card:hover {
+  box-shadow: 0px 30px 30px -20px rgba(0, 0, 0, 0.9),
+    inset 0 0 0 1000px rgba(67, 52, 109, 0.2);
+}
+
+#card:hover #avatar {
+  animation: none;
+  box-shadow: 0;
+  width: 200px;
+  height: 200px;
+}
+
+#card:hover #profile {
+  opacity: 1;
+  bottom: 0;
+}
+#profile {
+  transition: all 0.5s cubic-bezier(0.37, 0.26, 0.35, 1);
+  opacity: 0;
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+}
+#profile h1 {
+  color: #fff;
+  padding: 0;
+  margin: 0;
+}
+
+#profile h3 {
+  color: #aaa;
+  padding: 0;
+  margin: 5px 0 40px 0;
+  font-size: 0.9em;
+}
+#avatar {
+  transition: all 0.4s cubic-bezier(0.37, 0.26, 0.35, 1);
+  animation: circleAn 4s infinite;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background: url(https://scontent.xx.fbcdn.net/v/t1.15752-9/312720344_3348597695384912_7257971775765596605_n.png?_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeFjbdsg7cYUT_aRRKFIscNLv1O8V80hy2K_U7xXzSHLYvH18Rg9XvgHtQCxCaEiXWRvSap0ujVZe_Kh8aYonsgM&_nc_ohc=reNDVcc5HoMAX-fxes-&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSYQ0_OH0cSQxkee9esSbz2PZC4FQMlvCVs4QTi_L1Gew&oe=6385AF9C);
+
+  background-size: cover;
+  background-position: center center;
+  border-radius: 100%;
+  box-shadow: 0px 30px 30px -25px rgba(0, 0, 0, 0.6);
+}
+
+@keyframes circleAn {
+  0% {
+    box-shadow: 0px 30px 30px -25px rgba(0, 0, 0, 0.6),
+      0px 0px 0px 0px rgba(102, 52, 105, 1),
+      0px 0px 0px 0px rgba(102, 52, 105, 0.7),
+      0px 0px 0px 0px rgba(102, 52, 105, 0.5);
+  }
+  100% {
+    box-shadow: 0px 30px 30px -25px rgba(0, 0, 0, 0.6),
+      0px 0px 0px 70px rgba(102, 52, 105, 0),
+      0px 0px 0px 200px rgba(102, 52, 105, 0),
+      0px 0px 0px 300px rgba(102, 52, 105, 0);
+  }
+}
