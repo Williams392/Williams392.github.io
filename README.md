@@ -2,6 +2,6 @@
 
 Diseño de interfaz de usuario en tarjeta
 
-![enter image description here](https://scontent.flim34-1.fna.fbcdn.net/v/t1.15752-9/307772489_682056636472859_9217170515009661161_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGPZ0XA40jc0-C7UTUIHqtezjcp96r6rdLONyn3qvqt0m6Fpg0m68kKLFiiSEmeo5uPLqvQuoscbx4VNh0dk1dX&_nc_ohc=z_u2-OKFHIYAX8bVlMz&_nc_ht=scontent.flim34-1.fna&oh=03_AdTMEaelSuhn59mTQ2aiSefzjIKt5DJA_1ITE-KbCLxKsQ&oe=6382D836)
+![enter image description here](https://scontent.flim34-1.fna.fbcdn.net/v/t1.15752-9/310768442_543078447823726_7758222710920103856_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFKVui6oVs80FMjmLk-nnBpuOAHnchv_ha44AedyG_-FviQrrq_Nj4M1irXISVYRQfDeMZeCuBXUkX_6kbNCUmw&_nc_ohc=gvHl6x3ooEMAX_Co2tE&_nc_ht=scontent.flim34-1.fna&oh=03_AdTQTolA31tG5FlDKsPbXi1cu2S1TCZO--0uK_Lzx-RFRg&oe=6384EF64)
 
-![enter image description here](https://scontent.flim34-1.fna.fbcdn.net/v/t1.15752-9/308187257_525942448951277_7994225050736518677_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEz_E0vQuj2f0H9PmsJ6iqRydcYgkpybRjJ1xiCSnJtGF0yMxYBa3KoLu---ZFU-v_Y4Yp8O5VOzboFbXMop8YQ&_nc_ohc=TVnhnfOSbw8AX-nxmLk&tn=-2pU-54MslH5g1ly&_nc_ht=scontent.flim34-1.fna&oh=03_AdTOyDfsJ1Qs3G7YP8S9lUJVjyLqpdbi6KIf0nN2GZRr5A&oe=6385B61E)
+![enter image description here](https://scontent.flim34-1.fna.fbcdn.net/v/t1.15752-9/307770522_818294046040830_891463094119440892_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeE6c9HTBTg0YY5zbpuO0JSPObspRSK4EBg5uylFIrgQGKRcQViznGSJdRlG8eOM90N_Ri8QlVyezwRYy27p2NVH&_nc_ohc=1Z3fagxi53cAX9OuxHR&_nc_ht=scontent.flim34-1.fna&oh=03_AdRUwhurhq_20jNkp_NoqqG8499QWgL4yvz42V2ndYRndw&oe=638636CD)
